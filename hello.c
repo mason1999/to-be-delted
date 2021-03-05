@@ -7,6 +7,7 @@ int main(){
    // Added a fourth comment
    // Added a fifth comment
    // Added a sixth comment
+   // Added a seventh comment
    printf("hello world\n");
    return 0;
 }
